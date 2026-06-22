@@ -1,7 +1,7 @@
-# Customer-Complaints-Analysis-Dashboard-
+# Customer-Complaints-Analysis-Dashboard
 An interactive multi-page Power BI dashboard analyzing 62,516+ customer complaints, covering product trends, geographic distribution, and operational performance for a financial services company.
  Overview
-
+![Dashboard Preview](Excecutive%20summary.PNG)
 -This dashboard helps stakeholders quickly answer:
 
 
@@ -30,6 +30,8 @@ Conditional formatting (Timely vs Delayed comparisons)
 
 High-level KPIs and trends at a glance.
 
+![Executive Summary](Excecutive%20summary.PNG)
+
 Total Complaints: 62.516K
 Timely Response Rate: 93.8%
 Avg Response Time: 1.20 days
@@ -43,6 +45,7 @@ Checking/Savings accounts lead complaint volume (25K), followed by Credit Card (
 
 Breaks down complaints by product and sub-product over time.
 
+![Product Analyst](Product_Analyst.PNG)
 
 Sub-issue breakdown shows "Deposits and withdrawals" as the leading complaint driver (5.6K)
 Top 5 sub-products: Checking accounts (43.41%) dominate, followed by General-purpose cards (15.34%)
@@ -53,6 +56,8 @@ Multi-year product trend (2018–2022) highlights shifting complaint patterns ac
 
 Visualizes complaint density across U.S. states.
 
+![Geographic Analysis](Geography_Analyst.PNG)
+
 
 State heatmap (treemap): California (14K) and Florida (6K) are the largest contributors
 Regional trend chart: CA (13.7K) far outpaces FL (6.5K), TX (4.7K), NY (2.9K), and other states
@@ -61,6 +66,7 @@ Regional trend chart: CA (13.7K) far outpaces FL (6.5K), TX (4.7K), NY (2.9K), a
 4. Operational Performance
 
 Tracks resolution speed and complaint status.
+![Operational Performance](opertional-performance.PNG)
 
 90.68% of complaints are Closed, 5.2% Pending, with a small remainder Open
 Timely vs Delayed comparison by state — California has the highest delayed volume (1.4K) despite high overall closure
