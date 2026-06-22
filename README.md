@@ -46,7 +46,7 @@ Checking/Savings accounts lead complaint volume (25K), followed by Credit Card (
 
 Breaks down complaints by product and sub-product over time.
 
-![Product Analyst](Product%20analyst.PNG)
+![Product Analyst](Product%20Analyst.PNG)
 
 Sub-issue breakdown shows "Deposits and withdrawals" as the leading complaint driver (5.6K)
 Top 5 sub-products: Checking accounts (43.41%) dominate, followed by General-purpose cards (15.34%)
@@ -58,7 +58,7 @@ Multi-year product trend (2018–2022) highlights shifting complaint patterns ac
 Visualizes complaint density across U.S. states.
 
 
-![Geographic Analysis](Geography%20analyst.PNG)
+![Geographic Analysis](Geography%20Analyst.PNG)
 
 
 State heatmap (treemap): California (14K) and Florida (6K) are the largest contributors
@@ -78,13 +78,13 @@ Monthly trend (2017–2023) shows a major spike in complaint volume around Feb 2
 
 
 - Interactive Filters (Slicers, applied across all pages)
+  
 
-
-Year
-State
-Issue
-Product
-Submitted via
+Year,
+State,
+Issue,
+Product,
+Submitted via.
 
 
 - How to Use
