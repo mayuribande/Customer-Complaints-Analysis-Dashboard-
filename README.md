@@ -1,10 +1,11 @@
 # Customer-Complaints-Analysis-Dashboard
 An interactive multi-page Power BI dashboard analyzing 62,516+ customer complaints, covering product trends, geographic distribution, and operational performance for a financial services company.
- Overview
+
 ![Dashboard Preview](Excecutive%20summary.PNG)
--This dashboard helps stakeholders quickly answer:
 
 
+-Overview
+This dashboard helps stakeholders quickly answer:
 Where are complaints concentrated geographically?
 Which products and sub-products generate the most complaints?
 How responsive is the company in resolving complaints?
@@ -45,7 +46,7 @@ Checking/Savings accounts lead complaint volume (25K), followed by Credit Card (
 
 Breaks down complaints by product and sub-product over time.
 
-![Product Analyst](Product_Analyst.PNG)
+![Product Analyst](Product%20analyst.PNG)
 
 Sub-issue breakdown shows "Deposits and withdrawals" as the leading complaint driver (5.6K)
 Top 5 sub-products: Checking accounts (43.41%) dominate, followed by General-purpose cards (15.34%)
@@ -56,7 +57,8 @@ Multi-year product trend (2018–2022) highlights shifting complaint patterns ac
 
 Visualizes complaint density across U.S. states.
 
-![Geographic Analysis](Geography_Analyst.PNG)
+
+![Geographic Analysis](Geography%20analyst.PNG)
 
 
 State heatmap (treemap): California (14K) and Florida (6K) are the largest contributors
@@ -66,7 +68,9 @@ Regional trend chart: CA (13.7K) far outpaces FL (6.5K), TX (4.7K), NY (2.9K), a
 4. Operational Performance
 
 Tracks resolution speed and complaint status.
+
 ![Operational Performance](opertional-performance.PNG)
+
 
 90.68% of complaints are Closed, 5.2% Pending, with a small remainder Open
 Timely vs Delayed comparison by state — California has the highest delayed volume (1.4K) despite high overall closure
@@ -85,7 +89,7 @@ Submitted via
 
 - How to Use
 
-Download Customer_Complaints_Dashboard.pbix
+Download `customer-complaint-dashboard.pbix`
 Open in Power BI Desktop (free download from Microsoft)
 Use the slicers at the top of each page to filter by Year, State, Issue, Product, or Submission channel
 Navigate between pages using the left-side menu (Executive Summary, Product Analysis, Geographic Analysis, Operational Performance)
