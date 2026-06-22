@@ -89,7 +89,7 @@ Submitted via.
 
 - How to Use
 
-Download `customer-complaint-dashboard.pbix`
+Download [customer-complaint-dashboard.pbix](customer-complaint-dashboard.pbix)
 Open in Power BI Desktop (free download from Microsoft)
 Use the slicers at the top of each page to filter by Year, State, Issue, Product, or Submission channel
 Navigate between pages using the left-side menu (Executive Summary, Product Analysis, Geographic Analysis, Operational Performance)
